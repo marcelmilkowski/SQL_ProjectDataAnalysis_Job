@@ -58,10 +58,10 @@ ORDER BY job_count DESC;
 | tableau  | analyst_tools | 12        | Michael Page, Illuminate, Care.com, Walmart, AT&T...  |
 | power bi | analyst_tools | 7         | Braintrust, Torc Robotics, Michael Page, Walmart...   |
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 The most important Skill categories in top 50 Data Analyst jobs are programming 55,4%, analyst tools 23,1% and cloud 10%.
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 This chart shows the top skills required in highest paid companies. Analyst and programming dominate. In programming SQL and Python dominate, in analyst tools Tableau is the most common skill. 
 
 
@@ -88,7 +88,7 @@ ORDER BY count_job DESC;
 | spark     | 2,030  | 3.00%      |
 | java      | 1,673  | 2.47%      |
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 This chart shows which skills in IT are the most popular in Poland. SQL 9.37% and Python 8.98% dominate in job advertisements.
 
 #### 3. Which companies pay the most for Data Analitics?
@@ -121,6 +121,6 @@ LIMIT 10;
 | 4 | Braintrust                     | Data Scientist (with Marketing Data Science experience) | Data Scientist  | N/A           | $494,000    |
 | 5 | National Storage Affiliates    | Data Science for Revenue Management Advisor             | Data Scientist  | Anywhere      | $468,000    |
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 Michael Page International Inc based in New York offer the top $813,280/year. Which is $163,280 more than the second-highest offer, making it a clear outlier in the market. 
 
