@@ -123,3 +123,4 @@ LIMIT 10;
 
 ![alt text](image-8.png)
 Michael Page International Inc based in New York offer the top $813,280/year. Which is $163,280 more than the second-highest offer, making it a clear outlier in the market. 
+
