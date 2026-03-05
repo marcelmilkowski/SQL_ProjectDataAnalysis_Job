@@ -12,5 +12,5 @@ JOIN company_dim cd on cd.company_id = jof.company_id
 WHERE jof.salary_hour_avg IS NOT NULL 
      OR jof.salary_year_avg IS NOT NULL
      AND jof.job_title_short ILIKE '%data analyst%'
-ORDER BY salary_rate DESC
+ORDER BY salary_year DESC
 LIMIT 10;
